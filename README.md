@@ -1,1 +1,1 @@
-# API tests with JUnit 4, RestAssured and Allure
+# API tests for https://stellarburgers.nomoreparties.site with JUnit 4, RestAssured and Allure
